@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/electronics-ecommerce-app/static/css/main.f4bbde0d.css",
+    "main.js": "/electronics-ecommerce-app/static/js/main.f7703423.js",
+    "static/media/banner0.png": "/electronics-ecommerce-app/static/media/banner0.75da568e8ecf54a1c1f3.png",
+    "static/media/newsletter-bg.jpeg": "/electronics-ecommerce-app/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "index.html": "/electronics-ecommerce-app/index.html",
+    "main.f4bbde0d.css.map": "/electronics-ecommerce-app/static/css/main.f4bbde0d.css.map",
+    "main.f7703423.js.map": "/electronics-ecommerce-app/static/js/main.f7703423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4bbde0d.css",
+    "static/js/main.f7703423.js"
+  ]
+}
